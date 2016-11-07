@@ -46,7 +46,7 @@ Commit your change after forking and let me informed about the change.
 License
 ----
 
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License
+[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License](https://github.com/amritghimire/loadsheddingqt/blob/master/LICENSE)
 
 
 **Free Software, Hell Yeah!**
